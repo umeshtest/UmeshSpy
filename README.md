@@ -46,15 +46,15 @@ A cloud based remote android managment suite, powered by NodeJS
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
-    - `pm2 start index.js` <-- start the DroidSpy
-    - `pm2 startup` <- to run DroidSpy on startup
+    - `pm2 start index.js` <-- start the UmeshSpy
+    - `pm2 startup` <- to run UmeshSpy on startup
 
 6. Default Username & Password check password.txt file
     - Username: admin
     - Password: admin
     
 7. Set Username & Password Manually  
-    1. Stop DroidSpy `pm2 stop index`
+    1. Stop UmeshSpy `pm2 stop index`
     2. Open `maindb.json` in a text editor
     3. under `admin` 
         - set the `username` as plain text
@@ -69,7 +69,7 @@ It's recommended to run UmeshSpy behind a reverse proxy such as [NGINX](https://
 ## Happy Hacking
 ## Disclaimer
 <b>UmeshSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-DroidSpy is built for both Educational and Internal use ONLY.</b>
+UmeshSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By Mr.Umesh Hacker</p>
