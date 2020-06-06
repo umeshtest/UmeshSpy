@@ -1,7 +1,7 @@
 /* 
-*   DroiDrop
+*   UMESHSPY
 *   An Android Monitoring Tool
-*   By VoidTyphoon.co.uk
+*   By Mr.Umesh Hacker
 */
 
 
