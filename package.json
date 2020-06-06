@@ -1,13 +1,13 @@
 {
-  "name": "DROIDSPY",
+  "name": "UMESHSPY",
   "version": "1.0.0",
-  "description": "DROIDSPY- Remote Android Managment Suite",
+  "description": "UMESHSPY- Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Linuxndroid",
-  "license": "linuxndroid",
+  "author": "Mr.Umesh Hacker",
+  "license": "Mr.Umesh Hacker",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
