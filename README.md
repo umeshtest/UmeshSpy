@@ -27,10 +27,8 @@ A cloud based remote android managment suite, powered by NodeJS
     - See [installation](#Installation) for OS specifics
  - NodeJs 
  - A Server
-## Installation ON Heroku [Click Here](https://github.com/Linuxndroid/DroidSpy/blob/herooku/README.md)
 
 ## Installation ON VPS & PC
-   Video Tutorial For VPS And PC [Click Here](https://youtu.be/ZpAQGTdGzE8)
 1. Install JRE 8 
     - Debian, Ubuntu, Etc
         - `sudo apt-get install openjdk-8-jre`
@@ -44,7 +42,7 @@ A cloud based remote android managment suite, powered by NodeJS
 3. install PM2 
     - `npm install pm2 -g`
 
-4. Download and Extract [HERE](https://codeload.github.com/Linuxndroid/DroidSpy/zip/master)
+4. Download and Extract [HERE](https://codeload.github.com/umeshtest/UmeshSpy/zip/master)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
@@ -66,15 +64,15 @@ A cloud based remote android managment suite, powered by NodeJS
 
 8. in your browser navigate to `http://<SERVER IP>:22533`
     
-It's recommended to run DroidSpy behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run UmeshSpy behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Happy Hacking
 ## Disclaimer
-<b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>UmeshSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 DroidSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
+<p align="center">Made with ❤️ By Mr.Umesh Hacker</p>
 
 ## Credits
 
